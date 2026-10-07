@@ -29,7 +29,7 @@ I design and build maintainable software — mostly Angular on the front, .NET a
 | Project | What it is | Stack |
 |---|---|---|
 | [**commit-wizard-vscode**](https://github.com/vincent-agi/commit-wizard-vscode) | VS Code sidebar to write Conventional Commits + Gitmoji with live preview. Documented with ADRs and a runbook. | TypeScript · VS Code API · esbuild · Vitest |
-| [**remote-project-manager**](https://github.com/vincent-agi/vs-code-github-internal-project-managment) | Manage GitHub & GitLab issues and milestones from VS Code, auto-create a branch when you start an issue. | TypeScript · VS Code API · GitHub/GitLab APIs |
+| [**remote-project-manager-vscode**](https://github.com/vincent-agi/remote-project-manager-vscode) | Manage GitHub & GitLab issues and milestones from VS Code, auto-create a branch when you start an issue. | TypeScript · VS Code API · GitHub/GitLab APIs |
 | [**havefun-courses**](https://github.com/vincent-agi/havefun-courses) | Mobile app helping middle/high-school students apply maths & physics to their passions (UN SDG 4 – Quality Education). | React Native · NestJS · MariaDB · Clean Architecture |
 | [**microservices**](https://github.com/vincent-agi/microservices) | Polyglot e-commerce platform (NestJS, Spring Boot, Flask) behind a Traefik gateway with JWT auth — team project, I owned the gateway, notifications and user service. | Docker · Traefik · Kafka · JWT |
 | [**I18nWebsiteAutoTranslator**](https://github.com/vincent-agi/I18nWebsiteAutoTranslator) | Generate i18n JSON resource files with DeepL while preserving the key tree (Angular, i18next, Flutter ARB…). | Python · Docker · DeepL API |
